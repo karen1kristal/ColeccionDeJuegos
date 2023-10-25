@@ -17,6 +17,7 @@
 		01C882C02AE87FB100A1E05F /* RamosColeccionDeJuegosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C882BF2AE87FB100A1E05F /* RamosColeccionDeJuegosTests.swift */; };
 		01C882CA2AE87FB100A1E05F /* RamosColeccionDeJuegosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C882C92AE87FB100A1E05F /* RamosColeccionDeJuegosUITests.swift */; };
 		01C882CC2AE87FB100A1E05F /* RamosColeccionDeJuegosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C882CB2AE87FB100A1E05F /* RamosColeccionDeJuegosUITestsLaunchTests.swift */; };
+		01C882D92AE885D400A1E05F /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C882D82AE885D400A1E05F /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		01C882C52AE87FB100A1E05F /* RamosColeccionDeJuegosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RamosColeccionDeJuegosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01C882C92AE87FB100A1E05F /* RamosColeccionDeJuegosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RamosColeccionDeJuegosUITests.swift; sourceTree = "<group>"; };
 		01C882CB2AE87FB100A1E05F /* RamosColeccionDeJuegosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RamosColeccionDeJuegosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		01C882D82AE885D400A1E05F /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				01C882A72AE87FB000A1E05F /* SceneDelegate.swift */,
 				01C882A92AE87FB000A1E05F /* ViewController.swift */,
 				01C882AB2AE87FB000A1E05F /* Main.storyboard */,
+				01C882D82AE885D400A1E05F /* JuegosViewController.swift */,
 				01C882B12AE87FB100A1E05F /* Assets.xcassets */,
 				01C882B32AE87FB100A1E05F /* LaunchScreen.storyboard */,
 				01C882B62AE87FB100A1E05F /* Info.plist */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01C882D92AE885D400A1E05F /* JuegosViewController.swift in Sources */,
 				01C882AA2AE87FB000A1E05F /* ViewController.swift in Sources */,
 				01C882A62AE87FB000A1E05F /* AppDelegate.swift in Sources */,
 				01C882B02AE87FB000A1E05F /* RamosColeccionDeJuegos.xcdatamodeld in Sources */,
